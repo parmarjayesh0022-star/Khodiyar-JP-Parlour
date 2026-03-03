@@ -1,0 +1,12 @@
+KhodiyarJPParlourApp/
+│
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│   ├── logo.png
+│   ├── rice.jpg
+│   ├── milk.jpg
+│   ├── chocolate.jpg
+│   ├── soap.jpg
+└── README.txt
